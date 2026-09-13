@@ -20,7 +20,7 @@ const SocialMediaLinks = () => {
       </a>
 
       <a
-        href="https://github.com/honeyman22"
+        href="https://github.com/nishan-bhattarai22"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-flex items-center justify-center w-8 h-8 rounded-full bg-[#181717] shadow-md hover:scale-105 transition-transform"
