@@ -61,10 +61,10 @@ const Header = () => {
         className="header fixed inset-x-0 top-0 z-[5000]  flex items-center justify-between
          bg-white   py-6 shadow-sm px-4 sm:px-10"
       >
-        <nav className="flex flex-row items-center justify-between w-full gap-10">
-          <Link href="/">
+        <nav className="flex flex-row items-center justify-end w-full gap-10">
+          {/* <Link href="/">
             <Image src="/logo.png" alt="vms logo" width={120} height={40} />
-          </Link>
+          </Link> */}
           <ul className=" hidden md:flex  flex-row gap-10 text-gray10 ">
             {menu.map((item) => (
               <li
